@@ -1,3 +1,10 @@
+CREATE DATABASE pagely_auth;
+CREATE DATABASE pagely_user;
 CREATE DATABASE pagely_meeting;
 CREATE DATABASE pagely_book;
-CREATE DATABASE pagely_user;
+CREATE DATABASE pagely_report;
+CREATE DATABASE pagely_market;
+CREATE DATABASE pagely_payment;
+CREATE DATABASE pagely_ai;
+CREATE DATABASE pagely_chat;
+CREATE DATABASE pagely_map;
